@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1>Ramiro Thoma Rockenbach</h1>
+<h2>Porto Alegre, RS</h2>
+https://media2.giphy.com/media/NQz4V9m3gXsx3QpDWM/giphy.gif?cid=6c09b952qyxa0rt9dr5a9ex2pntdxa3ciz9556r9wbkxct9o&ep=v1_gifs_search&rid=giphy.gif&ct=g
+
 <!--
 **ramirotr/ramirotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
