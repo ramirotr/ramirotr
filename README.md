@@ -1,8 +1,6 @@
 # Olá, me chamo Ramiro! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-
 <h3>Porto Alegre, RS</h3>
 <img src="https://media2.giphy.com/media/NQz4V9m3gXsx3QpDWM/giphy.gif?cid=6c09b952qyxa0rt9dr5a9ex2pntdxa3ciz9556r9wbkxct9o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" height="180">
 
